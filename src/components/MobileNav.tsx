@@ -39,7 +39,7 @@ const MobileNav = () => {
                 alt='Ameet logo'
                 className='max-sm:size-10'
                 />
-                <p className='text-[26px] font-extrabold text-white'> Aruvi meet
+                <p className='text-[26px] font-extrabold text-white'> Business meet
                 </p>  
                 
             </Link>
